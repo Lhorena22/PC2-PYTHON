@@ -1,1 +1,1 @@
-# PC2-PYTHON
+# Resolución de práctica 2.
